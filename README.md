@@ -15,7 +15,7 @@ A sample map is provided for you in map.txt
 you can make your own map it's really simple:  
 
 \<number of entities\>  
-\<x\> m\<y\> \<type\>  
+\<x\> \<y\> \<type\>  
 \<x\> \<y\> \<type\>  
 ...  
 
